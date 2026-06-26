@@ -18,6 +18,19 @@ export const metadata: Metadata = {
   title: 'El CronoAbelardo · Cuenta Regresiva Oficial',
   description: 'Porque las promesas de un candidato son su obligación',
   generator: 'v0.app',
+  openGraph: {
+    title: 'El CronoAbelardo · Cuenta Regresiva Oficial',
+    description: 'Porque las promesas de un candidato son su obligación',
+    url: 'https://cronoabelardo-production.up.railway.app',
+    siteName: 'El CronoAbelardo',
+    locale: 'es_CO',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'El CronoAbelardo · Cuenta Regresiva Oficial',
+    description: 'Porque las promesas de un candidato son su obligación',
+  },
   icons: {
     icon: [
       {
