@@ -15,8 +15,8 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'El CronoPetro · Cuenta Regresiva Oficial',
-  description: 'Olvidar también es elegir que se repita. Cuenta regresiva oficial.',
+  title: 'El CronoAbelardo · Cuenta Regresiva Oficial',
+  description: 'Porque las promesas de un candidato son su obligación',
   generator: 'v0.app',
   icons: {
     icon: [
